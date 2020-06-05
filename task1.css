@@ -1,0 +1,54 @@
+body{
+	border: 5px solid black;
+	margin-left: 300px;
+	margin-right: 300px;
+	margin-top: 70px;
+	margin-bottom: 70px;
+	padding: 70px;
+
+}
+#Summary{
+	font-size: 20px;
+	line-height: 2.0;
+}
+
+div{
+	font-family: 'PT Serif', serif;
+	color: black;
+}
+
+.experience{
+	border: 5px solid #4d4d4d;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 50px;
+
+}
+h3{
+	font-family: 'Inconsolata', monospace;
+    color: #264d00;
+    font-size: 25px;
+    font-weight: 800;
+
+}
+.work{
+	font-family:Light 300 italic ;
+	font-weight: 500;
+	font-size: 20px;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+}
+#edu{
+	line-height: 2.0;
+}
+.heading{
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+	text-decoration: underline;
+	margin-top: 100px;
+}
+
+#link{
+	text-align: center;
+	margin-top: 50px;
+}
